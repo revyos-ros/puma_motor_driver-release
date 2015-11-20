@@ -1,0 +1,12 @@
+Source: ros-indigo-puma-motor-driver
+Section: misc
+Priority: extra
+Maintainer: Mike Purvis <mpurvis@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin, ros-indigo-puma-motor-msgs, ros-indigo-roscpp, ros-indigo-roslaunch, ros-indigo-roslint, ros-indigo-sensor-msgs, ros-indigo-serial
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-puma-motor-driver
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, can-utils, ros-indigo-joy, ros-indigo-puma-motor-msgs, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-serial
+Description: A ROS driver for Puma single-channel motor control board.
