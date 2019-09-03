@@ -1,3 +1,28 @@
+## puma_motor_driver (kinetic) - 0.2.0-1
+
+The packages in the `puma_motor_driver` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic puma_motor_driver` on `Tue, 03 Sep 2019 16:06:56 -0000`
+
+These packages were released:
+- `puma_motor_driver`
+- `puma_motor_msgs`
+
+Version of package(s) in repository `puma_motor_driver`:
+
+- upstream repository: https://github.com/clearpathrobotics/puma_motor_driver.git
+- release repository: https://github.com/clearpath-gbp/puma_motor_driver-release.git
+- rosdistro version: `0.1.1-1`
+- old version: `0.1.1-1`
+- new version: `0.2.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.8.0`
+- catkin_pkg version: `0.4.13`
+- rosdep version: `0.15.2`
+- rosdistro version: `0.7.4`
+- vcstools version: `0.1.42`
+
+
 ## puma_motor_driver (melodic) - 0.2.0-1
 
 The packages in the `puma_motor_driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic puma_motor_driver` on `Tue, 03 Sep 2019 16:05:48 -0000`
