@@ -1,0 +1,46 @@
+ros-humble-clearpath-socketcan-interface (1.0.0-1jammy) jammy; urgency=high
+
+  * Deleted the CHANGELOG
+  * Version match to puma_motor_driver
+  * Renamed socketcan_interface to clearpath_socket_interface
+  * Contributors: Luis Camero
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Thu, 25 Jul 2024 04:00:00 -0000
+
+ros-humble-clearpath-socketcan-interface (0.3.1-1jammy) jammy; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Mon, 23 Nov 2020 05:00:00 -0000
+
+ros-humble-clearpath-socketcan-interface (0.3.0-1jammy) jammy; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Thu, 12 Nov 2020 05:00:00 -0000
+
+ros-humble-clearpath-socketcan-interface (0.2.1-1jammy) jammy; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Fri, 22 Nov 2019 05:00:00 -0000
+
+ros-humble-clearpath-socketcan-interface (0.2.0-1jammy) jammy; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Tue, 03 Sep 2019 04:00:00 -0000
+
+ros-humble-clearpath-socketcan-interface (0.1.1-1jammy) jammy; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Fri, 20 Nov 2015 20:35:00 -0000
+
+ros-humble-clearpath-socketcan-interface (0.1.0-1jammy) jammy; urgency=high
+
+
+
+ -- Luis Camero <lcamero@clearpathrobotics.com>  Fri, 20 Nov 2015 14:03:00 -0000
+
+
