@@ -1,0 +1,53 @@
+ros-humble-puma-motor-msgs (1.0.1-1jammy) jammy; urgency=high
+
+  * Added LICENSE per package.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 09 Oct 2024 04:00:00 -0000
+
+ros-humble-puma-motor-msgs (1.0.0-1jammy) jammy; urgency=high
+
+  * updated msgs to foxy
+  * Contributors: joe28965
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 25 Jul 2024 04:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.3.1-1jammy) jammy; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 23 Nov 2020 05:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.3.0-1jammy) jammy; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 12 Nov 2020 05:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.2.1-1jammy) jammy; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 22 Nov 2019 05:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.2.0-1jammy) jammy; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 03 Sep 2019 04:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.1.1-1jammy) jammy; urgency=high
+
+  * Package format 2.
+  * Contributors: Mike Purvis
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 20 Nov 2015 05:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.1.0-1jammy) jammy; urgency=high
+
+  * Add standalone package for a puma messages.
+  * Contributors: Mike Purvis, Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Fri, 20 Nov 2015 05:00:00 -0000
+
+
