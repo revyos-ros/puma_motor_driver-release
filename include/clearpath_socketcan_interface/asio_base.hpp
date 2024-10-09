@@ -13,13 +13,14 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-#ifndef SOCKETCAN_INTERFACE__ASIO_BASE_HPP_
-#define SOCKETCAN_INTERFACE__ASIO_BASE_HPP_
+#ifndef CLEARPATH_SOCKETCAN_INTERFACE__ASIO_BASE_HPP_
+#define CLEARPATH_SOCKETCAN_INTERFACE__ASIO_BASE_HPP_
+
+#include <functional>
 
 #include <boost/asio.hpp>
 #include <boost/thread/mutex.hpp>
 #include <boost/thread/thread.hpp>
-#include <functional>
 
 #include "clearpath_socketcan_interface/dispatcher.hpp"
 #include "clearpath_socketcan_interface/interface.hpp"
@@ -138,6 +139,7 @@ public:
   }
   virtual bool send(const Frame & msg)
   {
+    usleep(1000);
     return getState().driver_state == State::ready && enqueue(msg);
   }
 
@@ -168,4 +170,4 @@ public:
 
 }  // namespace can
 
-#endif  // SOCKETCAN_INTERFACE__ASIO_BASE_HPP_
+#endif  // CLEARPATH_SOCKETCAN_INTERFACE__ASIO_BASE_HPP_
