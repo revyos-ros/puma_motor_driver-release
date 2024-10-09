@@ -1,3 +1,29 @@
+## puma_motor_driver (humble) - 1.0.1-1
+
+The packages in the `puma_motor_driver` repository were released into the `humble` distro by running `/usr/bin/bloom-release puma_motor_driver -r humble -t humble` on `Wed, 09 Oct 2024 15:10:16 -0000`
+
+These packages were released:
+- `clearpath_socketcan_interface`
+- `puma_motor_driver`
+- `puma_motor_msgs`
+
+Version of package(s) in repository `puma_motor_driver`:
+
+- upstream repository: https://github.com/clearpathrobotics/puma_motor_driver.git
+- release repository: https://github.com/clearpath-gbp/puma_motor_driver-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## puma_motor_driver (humble) - 1.0.0-1
 
 The packages in the `puma_motor_driver` repository were released into the `humble` distro by running `/usr/bin/bloom-release puma_motor_driver -t humble -r humble` on `Thu, 25 Jul 2024 19:05:37 -0000`
