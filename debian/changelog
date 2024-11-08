@@ -1,0 +1,80 @@
+ros-humble-puma-motor-driver (1.0.1-1bookworm) bookworm; urgency=high
+
+  * Added LICENSE per package.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 08 Oct 2024 16:00:00 -0000
+
+ros-humble-puma-motor-driver (1.0.0-1bookworm) bookworm; urgency=high
+
+  * Removed info logging
+  * Restored commandSpeed
+  * Spacing fixes
+  * Updated topics to match API
+  * Renamed socketcan_interface to clearpath_socket_interface
+  * Topic in node namespace
+  * Renamed robot to multi_puma_node
+  * Fixed include
+  * Add launch files and configuration files
+  * Add new multi puma node
+  * Modified header to include new functions
+  * Removed launch files
+  * Removed split multi control node
+  * Add retrieval functions with received checks
+  * properly using Boost shared library now
+  * added -fPIC build option
+  * exported header files
+  * built in ROS Foxy without errors
+  * Contributors: Joep Tool, Luis Camero, joe28965
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 24 Jul 2024 16:00:00 -0000
+
+ros-humble-puma-motor-driver (0.3.1-1bookworm) bookworm; urgency=high
+
+  * [puma_motor_driver] Made socketcan_interface a depend rather than build_depend.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Sun, 22 Nov 2020 16:00:00 -0000
+
+ros-humble-puma-motor-driver (0.3.0-1bookworm) bookworm; urgency=high
+
+  * [puma_motor_driver] Improved logging.
+  * [puma_motor_driver] Added settings for socketcan interface.
+  * [puma_motor_driver] Fixes for roslint.
+  * [puma_motor_driver] Switched to socketcan_interface, updated configuration and added extra field handling.
+  * [puma_motor_driver] Removed serial gateway.
+  * [puma_motor_driver] Update for cpp11.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 11 Nov 2020 16:00:00 -0000
+
+ros-humble-puma-motor-driver (0.2.1-1bookworm) bookworm; urgency=high
+
+  * [puma_motor_driver] Disabld checking of message if it was a status cause it was causing issues.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 21 Nov 2019 16:00:00 -0000
+
+ros-humble-puma-motor-driver (0.2.0-1bookworm) bookworm; urgency=high
+
+  * Renamed verifying 16x16 raw bytes and added verfying 8x8 function. Added parentheses to evaluate AND before comparison and added default case to switch statement in non-void function. Also, minor linter fixes.
+  * Updated fixed-point conversion.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 02 Sep 2019 16:00:00 -0000
+
+ros-humble-puma-motor-driver (0.1.1-1bookworm) bookworm; urgency=high
+
+  * Package format 2, dependency fix.
+  * Contributors: Mike Purvis
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 19 Nov 2015 16:00:00 -0000
+
+ros-humble-puma-motor-driver (0.1.0-1bookworm) bookworm; urgency=high
+
+  * First release of CAN/serial ROS driver for Puma.
+  * Contributors: Mike Purvis, Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 19 Nov 2015 16:00:00 -0000
+
+
