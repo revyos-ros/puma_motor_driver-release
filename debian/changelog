@@ -1,0 +1,53 @@
+ros-humble-puma-motor-msgs (1.0.1-1bookworm) bookworm; urgency=high
+
+  * Added LICENSE per package.
+  * Contributors: Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Tue, 08 Oct 2024 16:00:00 -0000
+
+ros-humble-puma-motor-msgs (1.0.0-1bookworm) bookworm; urgency=high
+
+  * updated msgs to foxy
+  * Contributors: joe28965
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 24 Jul 2024 16:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.3.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Sun, 22 Nov 2020 16:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.3.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Wed, 11 Nov 2020 16:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.2.1-1bookworm) bookworm; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 21 Nov 2019 16:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.2.0-1bookworm) bookworm; urgency=high
+
+
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Mon, 02 Sep 2019 16:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.1.1-1bookworm) bookworm; urgency=high
+
+  * Package format 2.
+  * Contributors: Mike Purvis
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 19 Nov 2015 16:00:00 -0000
+
+ros-humble-puma-motor-msgs (0.1.0-1bookworm) bookworm; urgency=high
+
+  * Add standalone package for a puma messages.
+  * Contributors: Mike Purvis, Tony Baltovski
+
+ -- Mike Purvis <mpurvis@clearpathrobotics.com>  Thu, 19 Nov 2015 16:00:00 -0000
+
+
